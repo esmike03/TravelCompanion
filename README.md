@@ -20,9 +20,6 @@ A mobile application designed to guide users to popular tourist attractions in B
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
-<a href="public/images/Screenshot 2024-11-03 221611.png" target="_blank">
-  <img src="Screenshot_2026-01-19-13-05-17-132_com.travelcompanion.jpg" alt="Screenshot 1" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-</a>
 
 <a href="public/images/Screenshot 2024-11-03 221625.png" target="_blank">
   <img src="att.5JceHmoi7l8vWjX1_H4bxK4kPVIvca0STpVUAZCpYrw.jpg" alt="Screenshot 2" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
