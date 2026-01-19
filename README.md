@@ -1,6 +1,6 @@
 # Travel Companion
 
-![Travel Companion Banner](public/images/Screenshot 2024-11-03 221611.png)  
+![Travel Companion Banner](Screenshot_2026-01-19-13-05-17-132_com.travelcompanion.jpg)  
 
 A mobile application designed to guide users to popular tourist attractions in Bohol, Philippines. Travel Companion leverages **Google Maps** and **OpenStreetView** for an immersive navigation experience, while providing secure and quick login via Google account authentication.
 
@@ -21,15 +21,18 @@ A mobile application designed to guide users to popular tourist attractions in B
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
 <a href="public/images/Screenshot 2024-11-03 221611.png" target="_blank">
-  <img src="public/images/Screenshot 2024-11-03 221611.png" alt="Screenshot 1" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+  <img src="Screenshot_2026-01-19-13-05-17-132_com.travelcompanion.jpg" alt="Screenshot 1" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 </a>
 
 <a href="public/images/Screenshot 2024-11-03 221625.png" target="_blank">
-  <img src="public/images/Screenshot 2024-11-03 221625.png" alt="Screenshot 2" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+  <img src="att.5JceHmoi7l8vWjX1_H4bxK4kPVIvca0STpVUAZCpYrw.jpg" alt="Screenshot 2" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 </a>
 
 <a href="public/images/Screenshot 2024-11-03 221653.png" target="_blank">
-  <img src="public/images/Screenshot 2024-11-03 221653.png" alt="Screenshot 3" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+  <img src="att.KpbdRtzUtf2c5xa6aWkOGziGASTYhM2VdEZShOM2cOU.jpg" alt="Screenshot 3" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+</a>
+<a href="public/images/Screenshot 2024-11-03 221653.png" target="_blank">
+  <img src="att.THW7V77d_4xc8raAG9hmwAdcRokU0cs5-ZkBHLkipnI.jpg" alt="Screenshot 3" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 </a>
 
 <!-- Add more screenshots here -->
